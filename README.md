@@ -13,3 +13,6 @@ Clona el siguiente respositorio y llévalo a la nube con Heroku
 Cuando logres desplegar la aplicación en producción saca un print de pantalla y agrégalo a este README con un `commit` y luego `push`.
 
 ¡Recuerda siempre trabajar en equipo!
+
+## Objetivo Logrado
+[Demo en producción](https://pacific-lake-91575.herokuapp.com/)
